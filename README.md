@@ -1,4 +1,4 @@
-# Submit form with files to Google Cloud function
-Processing multipart form data in cloud functions
+# The fastest way to get recursively all children of an element in the DOM
+There are several ways to get element descendants, but fancy does not mean efficient, old does not mean inefficient
 
-Source code for post https://marian-caikovski.medium.com/submit-form-with-files-to-google-cloud-function-e753b3d692c8
+Source code described in https://marian-caikovski.medium.com/the-fastest-way-to-get-recursively-all-children-of-an-element-in-the-dom-cf5e3cf29677
